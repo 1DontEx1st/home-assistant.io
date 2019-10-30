@@ -752,7 +752,6 @@
 /components/sensor.htu21d /integrations/htu21d
 /components/sensor.huawei_lte /integrations/huawei_lte#sensor
 /components/sensor.hydrawise /integrations/hydrawise#sensor
-/components/sensor.hydroquebec /integrations/hydroquebec
 /components/sensor.ihc /integrations/ihc#sensor
 /components/sensor.imap /integrations/imap
 /components/sensor.imap_email_content /integrations/imap_email_content
