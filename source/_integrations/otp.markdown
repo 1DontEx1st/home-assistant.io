@@ -10,7 +10,7 @@ ha_quality_scale: internal
 ha_domain: otp
 ---
 
-The `otp` sensor generates One-Time Passwords according to [RFC6238](https://tools.ietf.org/html/rfc6238) that is compatible with most OTP generators available, including Google Authenticator. You can use this when building custom security solutions and want to use "rolling codes", that change every 30 seconds.
+The `otp` sensor generates One-Time Passwords according to [RFC6238](https://tools.ietf.org/html/rfc6238) that are compatible with most OTP generators available, including Google Authenticator. You can use this when building custom security solutions and want to use "rolling codes" that change every 30 seconds.
 
 ## Configuration
 
